@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at clb4.v(6): object "g" differs only in case from object "G" in the same scope File: D:/cla_clk/clb4.v Line: 6
+Info (10281): Verilog HDL Declaration information at clb4.v(6): object "p" differs only in case from object "P" in the same scope File: D:/cla_clk/clb4.v Line: 6
